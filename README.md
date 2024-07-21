@@ -93,10 +93,6 @@ This project has the potential to significantly impact breast cancer diagnosis a
 
 Contributions to this project are welcome. Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - BACH (BreAst Cancer Histology) Dataset
